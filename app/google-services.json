@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "23868669168",
+    "firebase_url": "https://lukafinal-5e097.firebaseio.com",
+    "project_id": "lukafinal-5e097",
+    "storage_bucket": "lukafinal-5e097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23868669168:android:4b49371ff9e77a6ad89635",
+        "android_client_info": {
+          "package_name": "com.example.lukafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23868669168-8l4emh1jd61cie1ahsc40selu920scsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lukafinal",
+            "certificate_hash": "11905a15262eaa147c9eb9964bdcb3446dba9bdb"
+          }
+        },
+        {
+          "client_id": "23868669168-r816a1onvd5rmmq33vmu702ts14u8149.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lukafinal",
+            "certificate_hash": "5e50b96f65dfda9e792d8ee7fa110d73a1f38cc8"
+          }
+        },
+        {
+          "client_id": "23868669168-cth3t2ljge8tl2h6r4ag66hmhvntd3ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTs0OiUlXYX1GI7ifCSYyCZLlpsomp9jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23868669168-cth3t2ljge8tl2h6r4ag66hmhvntd3ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23868669168:android:0039d4faaf5b54f9d89635",
+        "android_client_info": {
+          "package_name": "com.example.lukasfinal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23868669168-1v4iq7ugnh6smsrq7nvtgun7o7s8sjad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lukasfinal2",
+            "certificate_hash": "a540d18cbcfad4dc604da63c10af72ec40594a20"
+          }
+        },
+        {
+          "client_id": "23868669168-cth3t2ljge8tl2h6r4ag66hmhvntd3ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTs0OiUlXYX1GI7ifCSYyCZLlpsomp9jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23868669168-cth3t2ljge8tl2h6r4ag66hmhvntd3ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
